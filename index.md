@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ACE Uganda Training Schedule for Fall 2021
+title: NIAID/NIH Training Schedule for 2022
 ---
 {::options toc_levels="1..2" /}
 
