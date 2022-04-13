@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NIAID/NIH Training Schedule for 2022
+title: NIAID Bioinformatics Training 2022
 ---
 {::options toc_levels="1..2" /}
 

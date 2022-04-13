@@ -1,4 +1,4 @@
-# NIAID/NIH Training Schedule for 2022
+# NIAID Bioinformatics Training 2022
 
 
 
