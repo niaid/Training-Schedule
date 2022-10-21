@@ -2,31 +2,23 @@
 
 
 
-# SCHEDULE
+## SCHEDULE
 
-| Title                                                                     | Who will offer it? | Scheduled Date |
-| ------------------------------------------------------------------------- | ------------------ | -------------- |
-| Python for Biologists: Jupyter Notebooks and Anaconda                     | Burke Squires      | 4/26/22        |
-| Python for Biologists: Introduction to Programming                        | Burke Squires      | 4/28/22        |
-| Python for Biologists: Introduction to Python                             | Burke Squires      | 5/3/22         |
-| Python for Biologists: Data Analysis with pandas I                        | Burke Squires      | 5/5/22         |
-| Python for Biologists: Data Analysis with pandas II                       | Burke Squires      | 5/10/22        |
-| Python for Biologists: Data Visualization with Python                     | Burke Squires      | 5/12/22        |
-| Python for Biologists: Bioinformatics with Python                         | Burke Squires      | 5/17/22        |
-| Python for Biologists: Database Programming with Python                   | Burke Squires      | 5/19/22        |
-| Python for Biologists: Introduction to machine learning with scikit-learn | Burke Squires      | 5/24/22        |
-| Python for Biologists: Intermediate Python                                | Burke Squires      | 5/26/22        |
-| Python for Biologists: Python Workflows with snakemake                    | Burke Squires      | 5/31/22        |
-| Metagenomics I: Introduction to metagenomics                              | Angelina Angelova  | 4/27/22        |
-| Metagenomics II: Identifying viruses in bulk metagenomic data             | David Stern        | 5/4/22         |
-| Metagenomics III: Downstream metagenomics analysis in R                   | Poorani Subramanian | 5/11/22        |
+| **Series** | **Title**    | **Instructor** | **Scheduled Date**  | **Time (e.g. 1-3pm)** | **Webinar Lecture or Hands-on (students will work during the session)** | **Duration (hours)** | **Zoom Link **  | **** | **** |
+|--------------------|------------------------------------------------------|------------------------|-----------------------------|---------------------------------|-------------------------------------------------------------------------|----------------------|-----------------------------------------------------------------------------|------|------|
+| Structural Biology | Introduction to Macromolecular Simulation    | Pete Steinbach   | Thursday, December 8, 2022  | 2-3:30 PM ET    | Webinar Lecture | 1.5  | |  |  |
+| Structural Biology | AlphaFold protein structure prediction with ChimaraX | Phil Cruz   | Wednesday, November 2, 2022 | 1:00 PM | Webinar Lecture and Hands On    | 2    |  https://nih.zoomgov.com/j/1606219435?pwd=ckdidU5tWEtESjREazR2ZFVSMXJMUT09  |  |  |
+|    |  |    | | | |  | |  |  |
+| Upcoming Seminars  |  |    | | | |  | |  |  |
+| Structural Biology | Unix for Biologists  | Amitava Roy   | ?   | | Webinar Lecture and Hands On    | 2 x 2    | |  |  |
+| Structural Biology | Virtual screening for lead identification    | Amitava Roy   | ?   | | Webinar Lecture and Hands On    | 2    | |  |  |
+
 
 # INSTRUCTORS
 Computational Biology Specialists from the National Institute of Allergy and Infectious Diseases (NIAID) will be teaching courses on bioinformatics topics and biocomputing tools.
 
-- Angelina Angelova, Ph.D.\*
-- Burke Squires, M.S.\*
-- David Stern, Ph.D.\*
-- Poorani Subramanian, Ph.D.\*
+- Amitava Roy, Ph.D.\*
+- Pete Steinbach, Ph.D.\*
+- Phil Cruz, Ph.D.\*
 
 	\* Instructors provide bioinformatics support at the NIAID as employees of Medical Science and Computing, Inc.
