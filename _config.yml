@@ -1,7 +1,7 @@
-title: ACE-BCBB Training Seminars
+title: NIAID BCBB Training Seminars
 theme: jekyll-theme-minimal
-repository: niaid/ACE-2021
-url: "https://niaid.github.io/ACE-2021"
+repository: niaid/training-schedule
+url: "https://github.com/niaid/training-schedule"
 
 exclude: [.gitignore, Gemfile, README.md, bashrc]
 
