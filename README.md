@@ -9,7 +9,7 @@
 | AlphaFold Protein Structure Prediction with ChimareX | Phil       | Wed., Nov 2, 2022   | 1:00 PM (ET) | 2 hr          | [Video](https://youtu.be/p4ttc2y-xeQ) |
 | Unix for Biologists I                                | Amit       | Mon., Nov. 14, 2022 | 3:00 PM (ET) | 2 hr          | [Video](https://youtu.be/fd3728TBmEc) |
 | Unix for Biologists II                               | Amit       | Wed., Nov. 16, 2022 | 3:00 PM (ET) | 2 hr          | [Video](https://youtu.be/7oDlOsB0aeY) |
-| Introduction to Macromolecular Simulation            | Pete       | Thur, Dec. 8, 2022  | 2:00 PM (ET) | 1.5 hr        | [Register here](https://nih.zoomgov.com/meeting/register/vJItf-qtpz4iE1zzSOb9r5Ov5lpkaonB4KA) |
+| Introduction to Macromolecular Simulation            | Pete       | Thur, Dec. 8, 2022  | 2:00 PM (ET) | 1.5 hr        | [Video](https://youtu.be/VZ4-AIxxJLc) |
 
 
 # INSTRUCTORS
